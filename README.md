@@ -1,4 +1,4 @@
-# tp_SpringBoot-Swager
+# tp_SpringBoot-Swagger
 
 #  Introduction :
 
@@ -76,17 +76,21 @@ Postman : Pour le test et la validation de nos API, nous utilisons Postman, un o
 
 *Affichage de la liste des etudiants : GET
 
-![image](https://github.com/ghita-baghdad/tp_SpringBoot-Swager/assets/147449053/693da478-2522-4c59-89e2-751a8cdcff57)
+![image](https://github.com/ghita-baghdad/tp_SpringBoot-Swager/assets/147449053/7a762576-0539-455b-a31c-ce6219c1c9af)
+
+![image](https://github.com/ghita-baghdad/tp_SpringBoot-Swager/assets/147449053/a72340ca-4b0f-491f-bbbe-9c94d373e0b8)
+
 
 *Modification de l'etudiant ayant "id=1": PUT
 
-![image](https://github.com/ghita-baghdad/tp_SpringBoot-Swager/assets/147449053/7e857ff8-e2d5-4dc8-9fcc-765b5792f452)
+![image](https://github.com/ghita-baghdad/tp_SpringBoot-Swager/assets/147449053/1b155220-e3fc-4c84-b2e8-99866304a206)
+
 
 -Test du filtrage d'etudiant par filiere :
 
 ![image](https://github.com/ghita-baghdad/tp_SpringBoot-Swager/assets/147449053/8ea4a924-7446-47dd-966d-02fcbf9e53f9)
 
-## Au niveau de SWAGER :
+## Au niveau de SWAGGER :
 
 -Test pour Filiere :
 
@@ -103,6 +107,40 @@ Postman : Pour le test et la validation de nos API, nous utilisons Postman, un o
 ![image](https://github.com/ghita-baghdad/tp_SpringBoot-Swager/assets/147449053/66b3149d-f2e2-4478-9b84-f6c67ded577e)
 
 ![image](https://github.com/ghita-baghdad/tp_SpringBoot-Swager/assets/147449053/e4e459f0-c24b-4bc9-99e0-c3d8ec4d93a3)
+
+  -Test pour Student :
+
+-GET :
+
+![image](https://github.com/ghita-baghdad/tp_SpringBoot-Swager/assets/147449053/284939cb-c6f6-4813-a782-4c24597a18ed)
+
+-POST :
+
+![image](https://github.com/ghita-baghdad/tp_SpringBoot-Swager/assets/147449053/e9b958d2-b320-42e1-bce4-9328753cfa52)
+
+![image](https://github.com/ghita-baghdad/tp_SpringBoot-Swager/assets/147449053/ba8f6bff-e475-46bd-bab9-11aeb6e4fce0)
+
+
+-DELETE :
+
+![image](https://github.com/ghita-baghdad/tp_SpringBoot-Swager/assets/147449053/4a749151-d8fb-4f36-9667-95a75b768428)
+
+ -Test pour Roles:
+
+-GET :
+
+![image](https://github.com/ghita-baghdad/tp_SpringBoot-Swager/assets/147449053/c87b2206-a930-4ca3-8ca9-b91f054a0227)
+
+-POST :
+
+![image](https://github.com/ghita-baghdad/tp_SpringBoot-Swager/assets/147449053/f04c4e40-1568-4abe-ab1c-8d013282edfe)
+
+![image](https://github.com/ghita-baghdad/tp_SpringBoot-Swager/assets/147449053/e0553523-83cc-4e16-9b81-a7b72e746f8a)
+
+-DELETE :
+
+![image](https://github.com/ghita-baghdad/tp_SpringBoot-Swager/assets/147449053/9e81cafb-2b1d-4fae-9c2b-d9521f24f3ce)
+
 
 # Conclusion :
 
